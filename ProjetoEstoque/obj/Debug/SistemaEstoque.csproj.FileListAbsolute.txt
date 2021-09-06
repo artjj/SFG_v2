@@ -1,0 +1,133 @@
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CoreCompileInputs.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+C:\Users\Tecnico\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.Cache
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.Cache
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.cache
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+C:\Users\Rock\Desktop\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+F:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+F:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+F:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CoreCompileInputs.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto.mdf
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\projeto_log.ldf
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojResolveAssemblyReference.cache
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.cache
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CoreCompileInputs.cache
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb

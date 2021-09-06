@@ -1,0 +1,257 @@
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+D:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+H:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Lucros.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Lucros.resources
+F:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+G:\Nova pasta\2ºMódulo\C#\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+E:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+H:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+G:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Nova pasta\2ºMódulo\C#\Projeto\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+F:\Nova pasta\2ºMódulo\C#\Arthur Dylan e Mayara\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+F:\Nova pasta\2ºMódulo\C#\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe.config
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.exe
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\ProjetoEstoque.pdb
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Properties.Resources.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.exe
+E:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.pdb
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.dll
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.Cache
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+H:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\MySql.Data.xml
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csprojResolveAssemblyReference.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.GenerateResource.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CoreCompileInputs.cache
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\ProjetoEstoque.csproj.CopyComplete
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+E:\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+F:\Arquivos\Arthur\MG Gerenciamento de Materiais\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
