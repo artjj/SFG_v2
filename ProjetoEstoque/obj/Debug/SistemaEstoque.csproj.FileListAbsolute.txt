@@ -131,3 +131,30 @@ F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoqu
 F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
 F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
 F:\Arquivos\Arthur\SFG Sistema Flexível de Gestão\ProjetoEstoque\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\projeto.mdf
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\projeto_log.ldf
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\SistemaEstoque.exe.config
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\SistemaEstoque.exe
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\SistemaEstoque.pdb
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\MySql.Data.dll
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\Google.Protobuf.dll
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\Renci.SshNet.dll
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\bin\Debug\MySql.Data.xml
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.csprojAssemblyReference.cache
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Adicionar.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Editar.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.Faturamento.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Form1.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Histórico.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Login.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Principal.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.Properties.Resources.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Registros.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\ProjetoEstoque.Remover.resources
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.GenerateResource.cache
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.csproj.CopyComplete
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.exe
+C:\Users\Arthur\source\repos\SFG_v2\ProjetoEstoque\obj\Debug\SistemaEstoque.pdb
