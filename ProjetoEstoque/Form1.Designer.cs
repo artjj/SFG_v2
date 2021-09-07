@@ -33,6 +33,7 @@
             this.lblEstoque = new System.Windows.Forms.Label();
             this.lblFaturamento = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblWelcome = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -101,6 +102,19 @@
             this.pictureBox1.TabIndex = 32;
             this.pictureBox1.TabStop = false;
             // 
+            // lblWelcome
+            // 
+            this.lblWelcome.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblWelcome.BackColor = System.Drawing.Color.Transparent;
+            this.lblWelcome.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblWelcome.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.lblWelcome.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.lblWelcome.Location = new System.Drawing.Point(12, 9);
+            this.lblWelcome.Name = "lblWelcome";
+            this.lblWelcome.Size = new System.Drawing.Size(485, 27);
+            this.lblWelcome.TabIndex = 33;
+            this.lblWelcome.Click += new System.EventHandler(this.lblWelcome_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -109,6 +123,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(785, 560);
+            this.Controls.Add(this.lblWelcome);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.lblEstoque);
             this.Controls.Add(this.lblFaturamento);
@@ -128,6 +143,7 @@
         private System.Windows.Forms.Label lblEstoque;
         private System.Windows.Forms.Label lblFaturamento;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label lblWelcome;
     }
 }
 

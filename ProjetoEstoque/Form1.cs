@@ -13,9 +13,11 @@ namespace ProjetoEstoque
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        //public string NomeUsuario { get; set; }
+        public Form1(string NomeUsuario)
         {
             InitializeComponent();
+            lblWelcome.Text = $"Bem vindo(a) {NomeUsuario}!";
             
         }
         private void lblEstoque_Click(object sender, EventArgs e)
@@ -70,6 +72,11 @@ namespace ProjetoEstoque
         {
             Faturamento faturamento = new Faturamento();
             faturamento.ShowDialog();
+        }
+
+        private void lblWelcome_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
